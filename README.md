@@ -1,6 +1,9 @@
 # Olá! Eu sou  ♂♀ Karin Kau  👋 💚 👽
 
 ♥  Estou aprendendo HTML5 + CSS3 e JavaScript.
+<img align="center" alt="karinkau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> + 
+   <img align="center" alt="karinkau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> + 
+   <img align="center" alt="karinkau-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 <!--CONTADORES-->
 <div align="left">
@@ -24,7 +27,7 @@
    <a href ="mailto:karinkau13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   -->
-   <!--LINGUAGENS-->
+   <!--LINGUAGENS-->Em uso:
    <img align="center" alt="karinkau-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
    <img align="center" alt="karinkau-github" height="30" width="40" src="https://avatars.githubusercontent.com/in/15368?s=64&v=4/devicons/devicon/master/icons/github/github-original.svg">
    <img align="center" alt="karinkau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
