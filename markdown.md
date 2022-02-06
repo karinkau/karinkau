@@ -1,28 +1,28 @@
-# <center>MARKDOWN</center>
+ # MARKDOWN
 
-**Markdown** ‚ uma linguagem simples de marca‡„o originalmente criada por John Gruber e Aaron Swartz que converte texto em HTML v lido.  
-Markdown ‚ frequentemente usado para formatar arquivos README, para escrever mensagens em f¢runs de discuss„o online e para criar rich text usando um editor de texto simples.
+**Markdown** Ã© uma linguagem simples de marcaÃ§Ã£o originalmente criada por John Gruber e Aaron Swartz que converte texto em HTML vÂ lido.  
+Markdown â€š frequentemente usado para formatar arquivos README, para escrever mensagens em fÂ¢runs de discussâ€o online e para criar rich text usando um editor de texto simples.
 
-A rede social para desenvolvedores: **Github** ‚ compat¡vel com a linguagem Markdown. 
+A rede social para desenvolvedores: **Github** â€š compatÂ¡vel com a linguagem Markdown. 
 
-Os arquivos **README.md** dos reposit¢rios no Github, s„o feitos com a linguagem Markdown.
+Os arquivos **README.md** dos repositÂ¢rios no Github, sâ€o feitos com a linguagem Markdown.
 
-> **.md**  ‚ a extens„o para os arquivos em Markdown.
+> **.md**  â€š a extensâ€o para os arquivos em Markdown.
 
-Outra linguagem de marca‡„o ‚ a *HTML*.  Essas linguagens s„o para desenvolvimento. N„o s„o linguagens de programa‡„o. 
+Outra linguagem de marcaâ€¡â€o â€š a *HTML*.  Essas linguagens sâ€o para desenvolvimento. Nâ€o sâ€o linguagens de programaâ€¡â€o. 
 
 ___
 
-##  T¢picos do conte£do <!--ancoras-->
+##  TÂ¢picos do conteÂ£do <!--ancoras-->
 
-[Hier rquia de t¡tulos](#titulos)  
+[HierÂ rquia de tÂ¡tulos](#titulos)  
 [Linha horizontal](#hr)  
-[Par grafos](#p)  
+[ParÂ grafos](#p)  
 [Quebra de linha](#br)  
-[Formata‡„o b sica](#formatar)  
-[Mostrar os s¡mbolos de Markdown no texto](#simbolos)
-[Cita‡„o](#citar)  
-[C¢digos de linguagens](#code)  
+[Formataâ€¡â€o bÂ sica](#formatar)  
+[Mostrar os sÂ¡mbolos de Markdown no texto](#simbolos)
+[Citaâ€¡â€o](#citar)  
+[CÂ¢digos de linguagens](#code)  
 [](#)  
 [](#)  
 [](#)  
@@ -31,22 +31,22 @@ ___
 ___
 
 <div id="titulos">
-## Hier rquia de t¡tulos
+## HierÂ rquia de tÂ¡tulos
 
-- \# T¡tulo n¡vel 1
-- \## T¡tulo n¡vel 2
-- \### T¡tulo n¡vel 3
-- \#### T¡tulo n¡vel 4
-- \##### T¡tulo n¡vel 5
-- \###### T¡tulo n¡vel 6 
+- \# TÂ¡tulo nÂ¡vel 1
+- \## TÂ¡tulo nÂ¡vel 2
+- \### TÂ¡tulo nÂ¡vel 3
+- \#### TÂ¡tulo nÂ¡vel 4
+- \##### TÂ¡tulo nÂ¡vel 5
+- \###### TÂ¡tulo nÂ¡vel 6 
 
-Pode-se tamb‚m fazer o t¡tulo e subt¡tulo assim:
+Pode-se tambâ€šm fazer o tÂ¡tulo e subtÂ¡tulo assim:
 
 ~~~
-T¡tulo principal 
+TÂ¡tulo principal 
 ===
 
-Subt¡tulo 
+SubtÂ¡tulo 
 ---
 ~~~
 
@@ -54,41 +54,41 @@ Subt¡tulo
 <div id="hr">
 ## Linha horizontal
 
-- 3 tra‡os \---
+- 3 traâ€¡os \---
 - 3 asteriscos \***
 - 3 underlines ___
 
 
 <div id="p">
-## Par grafos
+## ParÂ grafos
 
-Vocˆ pode criar um novo par grafo deixando uma linha em branco entre as linhas de texto.
+VocË† pode criar um novo parÂ grafo deixando uma linha em branco entre as linhas de texto.
 
 
 <div id="br">
 ## Quebra de linha
 
-Pode-se usar **2 espa‡os no final da linha** ou a tag \<br> - quebra de linha do HTML no arquivo em Markdown. 
+Pode-se usar **2 espaâ€¡os no final da linha** ou a tag \<br> - quebra de linha do HTML no arquivo em Markdown. 
 
- As tags HTML s„o aceitas em Markdown.
+ As tags HTML sâ€o aceitas em Markdown.
 
 
 <div id="formatar">
-## Formata‡„o b sica
+## Formataâ€¡â€o bÂ sica
 
-** Negrito:** S„o 2 asteriscos ou 2 underlines ou Ctrl B. `**negrito** ou __negrito__ ` **texto em negrito**
+** Negrito:** Sâ€o 2 asteriscos ou 2 underlines ou Ctrl B. `**negrito** ou __negrito__ ` **texto em negrito**
 
-** It lico:** ‚ 1 asterisco ou 1 underline ou Ctrl I. `*it lico* ou _it lico_` *texto em it lico*
+** ItÂ lico:** â€š 1 asterisco ou 1 underline ou Ctrl I. `*itÂ lico* ou _itÂ lico_` *texto em itÂ lico*
 
-** Texto exclu¡do:** s„o 2 tils. `~~riscado~~` ~~texto exclu¡do~~
+** Texto excluÂ¡do:** sâ€o 2 tils. `~~riscado~~` ~~texto excluÂ¡do~~
 
-** Negrito-it lico:** s„o 2 asteriscos e 1 underline. `**_negrito-it lico_**` *__txto em negrito-it lico__*  
+** Negrito-itÂ lico:** sâ€o 2 asteriscos e 1 underline. `**_negrito-itÂ lico_**` *__txto em negrito-itÂ lico__*  
 
-** Todo o texto em negrito it lico:** s„o 3 asteriscos. `***Tudo em negrito e it lico*** ou ___tudo em negrito e it lico___` ***Tudo em negrito e it lico de forma mais simples.***
+** Todo o texto em negrito itÂ lico:** sâ€o 3 asteriscos. `***Tudo em negrito e itÂ lico*** ou ___tudo em negrito e itÂ lico___` ***Tudo em negrito e itÂ lico de forma mais simples.***
 
 ___
 
-Isso ‚ poss¡vel em Markdown?
+Isso â€š possÂ¡vel em Markdown?
 
  Texto  sublinhado  
  Texto marcado com cor
@@ -96,94 +96,94 @@ ___
 
 
 <div id="simbolos">
-## Mostrar os s¡mbolos de Markdown no texto
+## Mostrar os sÂ¡mbolos de Markdown no texto
 
-Para mostrar exatamente o s¡mbolo basta usar uma barra invertida \ antes. Isso para o efeito de formata‡„o. Exemplo: `\#` mostrar  o s¡mbolo \# sem o efeito de t¡tulo.  
+Para mostrar exatamente o sÂ¡mbolo basta usar uma barra invertida \ antes. Isso para o efeito de formataâ€¡â€o. Exemplo: `\#` mostrarÂ  o sÂ¡mbolo \# sem o efeito de tÂ¡tulo.  
 
 
 <div id="citar">
-## Cita‡„o
+## Citaâ€¡â€o
 
-O sinal de `>` no in¡cio da linha indica uma cita‡„o. 
+O sinal de `>` no inÂ¡cio da linha indica uma citaâ€¡â€o. 
 
-> Vocˆ pode citar automaticamente o texto em um coment rio ***destacando o texto e digitando R***.
+> VocË† pode citar automaticamente o texto em um comentÂ rio ***destacando o texto e digitando R***.
 
-### Cita‡„o aninhada
+### Citaâ€¡â€o aninhada
 
-Para criar um bloco aninhado de cita‡”es, utilize **2 ou mais sinais de maior que** `>>` antes do par grafo.
+Para criar um bloco aninhado de citaâ€¡â€es, utilize **2 ou mais sinais de maior que** `>>` antes do parÂ grafo.
 
 ~~~
-> Resultado da cita‡„o aninhada
+> Resultado da citaâ€¡â€o aninhada
 >
->> cita‡„o n¡vel 2
+>> citaâ€¡â€o nÂ¡vel 2
 >> 
->>> cita‡„o n¡vel 3
+>>> citaâ€¡â€o nÂ¡vel 3
 >>> 
->>>> cita‡„o n¡vel 4
+>>>> citaâ€¡â€o nÂ¡vel 4
 >>>>
 ~~~
-> Resultado da cita‡„o aninhada
+> Resultado da citaâ€¡â€o aninhada
 >
->> cita‡„o n¡vel 2
+>> citaâ€¡â€o nÂ¡vel 2
 >> 
->>> cita‡„o n¡vel 3
+>>> citaâ€¡â€o nÂ¡vel 3
 >>> 
->>>> cita‡„o n¡vel 4
+>>>> citaâ€¡â€o nÂ¡vel 4
 >>>>
 
 
 <div id="code">
-## C¢digos de linguagens
+## CÂ¢digos de linguagens
 
- **C¢digo inline ** colocar entre crases \` \` O c¢digo delimitado ou Ctrl E. Isso faz o texto ficar com uma fonte monoespa‡ada e com fundo acinzentado para dar destaque. Exemplo: `window.document.querySelector()` ‚ escrito em linguagem JavaScript.
+ **CÂ¢digo inline ** colocar entre crases \` \` O cÂ¢digo delimitado ou Ctrl E. Isso faz o texto ficar com uma fonte monoespaâ€¡ada e com fundo acinzentado para dar destaque. Exemplo: `window.document.querySelector()` â€š escrito em linguagem JavaScript.
 
- **C¢digo em linhas ** colocar o c¢digo entre 3 crases ``` ou 3 tils ~~~ consecutivos sem espa‡o entre eles.
+ **CÂ¢digo em linhas ** colocar o cÂ¢digo entre 3 crases ``` ou 3 tils ~~~ consecutivos sem espaâ€¡o entre eles.
 
 ~~~ python
-    num = int(input('Digite um n£mero: ')) 
+    num = int(input('Digite um nÂ£mero: ')) 
     if num % 2 == 0: 
-        print(f'O valor {num} ‚ PAR') 
+        print(f'O valor {num} â€š PAR') 
     else: 
-        print(f'O valor {num} ‚ ‹MPAR') 
+        print(f'O valor {num} â€š â€¹MPAR') 
     print('Fim do Programa') 
 ~~~
 
- **C¢digo de linhas simples ** Colocar 4 espa‡os para antes do texto. 
+ **CÂ¢digo de linhas simples ** Colocar 4 espaâ€¡os para antes do texto. 
 
     Exemplo para textos.
 
-     Essa forma n„o ‚ indicada para colocar trechos de linguagens de programa‡„o.
+     Essa forma nâ€o â€š indicada para colocar trechos de linguagens de programaâ€¡â€o.
 
 
 ## 2.9. Links
 
-S¡mbolo **\[link](URL)**  onde a descri‡„o fica entre colchetes e o endere‡o do link entre parˆnteses.
+SÂ¡mbolo **\[link](URL)**  onde a descriâ€¡â€o fica entre colchetes e o endereâ€¡o do link entre parË†nteses.
 
 Exemplo: [Pesquisa Google](https://www.google.com/ target="_blank")
 
  **Link relativo**  \[link](docs/CONTRIBUTING.md) _ pode usar os operandos ./ e ../ para acessar as pastas.
 
- **Link direto**  envolva o endere‡o da web entre chaves <> ou colocar a URL completa. https://www.google.com/
+ **Link direto**  envolva o endereâ€¡o da web entre chaves <> ou colocar a URL completa. https://www.google.com/
 
 
-## 2.10. ncoras
+## 2.10. Âncoras
 
-Fazer ƒncoras no texto, ou seja, links dentro do texto.
+Fazer Æ’ncoras no texto, ou seja, links dentro do texto.
 
-**\[Hier quia de t¡tulos](#hierarquia-titulos)**  leva a p gina at‚ o conte£do referenciado por uma div: **\<div id="hierarquia-titulos">**
+**\[HierÂ quia de tÂ¡tulos](#hierarquia-titulos)**  leva a pÂ gina atâ€š o conteÂ£do referenciado por uma div: **\<div id="hierarquia-titulos">**
 
- Exemplo: [Hier quia de t¡tulos](#hierarquia-titulos)
+ Exemplo: [HierÂ quia de tÂ¡tulos](#hierarquia-titulos)
 
- Com esse exemplo ‚ poss¡vel criar sum rios e ¡ncices de t¢picos no texto.
+ Com esse exemplo â€š possÂ¡vel criar sumÂ rios e Â¡ncices de tÂ¢picos no texto.
 
 
 ## 2.11. Imagens
 
-S¡mbolo **\!\[img](URL)**  abre colchetes vazio e a URL da imagem entre parˆnteses. 
+SÂ¡mbolo **\!\[img](URL)**  abre colchetes vazio e a URL da imagem entre parË†nteses. 
 
 ![CursoemVideo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
 
- **Imagem com t¡tulo**  colocar uma descri‡„o da imagem quando passar o mouse sobre ela. Tem a mesma fun‡„o da tag \<title> do Html. Para isso, coloque ap¢s a url da imagem, a descri‡„o entre aspas duplas: \!\[ ](URL "descri‡„o").
+ **Imagem com tÂ¡tulo**  colocar uma descriâ€¡â€o da imagem quando passar o mouse sobre ela. Tem a mesma funâ€¡â€o da tag \<title> do Html. Para isso, coloque apÂ¢s a url da imagem, a descriâ€¡â€o entre aspas duplas: \!\[ ](URL "descriâ€¡â€o").
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Logo do Markdown")
 
@@ -201,7 +201,7 @@ ___
 
 ## 2.12. Emojis
 
-S„o representados entre s¡mbolos de **:emoji:**
+Sâ€o representados entre sÂ¡mbolos de **:emoji:**
 
 :eyes:  :muscle:  :clap:  :+1:
 
