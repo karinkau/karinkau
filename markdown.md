@@ -18,21 +18,17 @@ ___
 
 <div id="topicos">
  
-## ▼ Tópicos do conteúdo
-
-🔹 [Hierárquia de títulos](#titulos)  
-🔹 [Linha horizontal](#hr)  
-🔹 [Parágrafos](#p)  
-🔹 [Quebra de linha](#br)  
-🔹 [Formatação básica](#formatar)  
-🔹 [Mostrar os símbolos do Markdown](#simbolos)  
-🔹 [Citação simples e aninhada](#citar)  
-🔹 [Inserir códigos](#code)  
-🔹 [Links](#links)  
-🔹 [Âncoras](#ancoras)  
-🔹 [Imagens](#img)  
-🔹 [Emojis](#emojis)
-
+## ▼ Tópicos do conteúdo 
+ 
+📌 Comandos básicos                 | 📌 Links               | 📌 Designer            | 📌 Comandos de blocos      | 📌 Menções |
+---                                  | ---                    | ---                    | ---                         | ---         |
+🔹 [Hierárquia de títulos](#titulos) | 🔹 [Âncoras](#ancoras) | 🔹 [Imagens](#img)     | 🔹 [Citação](#citar)        | 🔹         |
+🔹 [Linha horizontal](#hr)           | 🔹 [Links](#links)     | 🔹 [Emojis](#emojis)   | 🔹 [Inserir códigos](#code) | 🔹         |
+🔹 [Parágrafos](#p)                  | 🔹                     | 🔹                     | 🔹                          | 🔹         |
+🔹 [Quebra de linha](#br)            | 🔹                     | 🔹                     | 🔹                          | 🔹         |
+🔹 [Formatação básica](#formatar)    | 🔹                     | 🔹                     | 🔹                          | 🔹         |
+🔹 [Inserir símbolos](#simbolos)     | 🔹                     | 🔹                     | 🔹                          | 🔹         | 
+ 
 ___
  
 <div id="titulos">
@@ -114,7 +110,7 @@ ___
  
 <div id="simbolos">
  
-## ░ Mostrar os símbolos do Markdown no texto
+## ░ Inserir símbolos no texto
 
 Para mostrar exatamente o símbolo basta usar uma barra invertida `\` antes do símbolo. Isso faz parar o efeito de formatação.
  
@@ -197,6 +193,16 @@ Basta colocar **4 espaços** antes do texto para abrir o espaço reservado.
 
     ☞ Essa forma não é indicada para colocar trechos de linguagens de programação.
 
+### ⚪ Mostrar símbolos da formatação no bloco
+ 
+Para exibir acentos graves triplos ou til triplos em um bloco de código, envolva-os dentro de acentos graves quádruplos.
+
+~~~~
+```
+        Esse é um bloco de código para colocar linguagens de programação entre outros.  
+    Seus símbolos de formatação estão vizíveis graças a acentos graves quaádruplos. 
+```
+~~~~
  
 [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
 ___
@@ -219,11 +225,11 @@ Exemplo: [Pesquisa Google](https://www.google.com/ "Esse link abre a página na 
  
 É o endereço da web entre **chaves <>** ou a URL completa colada na página. Exemplo: <https://www.google.com/>
 
-‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
+ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
  
    É possível colocar um link em Markdown:  
 🟡 Que abra em outra aba do navegador?  
-‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗  ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
+‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗  ‗ ‗ ‗ ‗ 
 
  
 [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
@@ -246,53 +252,52 @@ ___
  
 <div id="img">
  
-## Imagens
-
-O símbolo `![]()` ☛ `![alt](URL "title")` → colocar o texto alternativo entre colchetes, o link da imagem entre parêntesis e a descrição da imagem entre aspas duplas - ao passar o mouse sobre ela vai mostrar o texto. Tem a mesma função da tag <title> do HTML.
+## ░ Imagens
+ 
+O símbolo `![]()` ☛ `![alt](URL "title")` → onde o texto alternativo fica entre colchetes, o link da imagem entre parêntesis e a descrição da imagem entre aspas duplas - ao passar o mouse sobre ela vai mostrar um texto. Tem a mesma função da tag <title> do HTML.
 
 ![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Logo do Markdown")
  
-✅ A função do texto alternativo é primordial, pois caso a imagem não carregar na página - aparecerá o ícone de link quebrado + o texto alternativo.
- 
-![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.pn)
+✅ A função do texto alternativo é primordial, pois caso a imagem não carregar na página - aparecerá o ícone de link quebrado + o texto alternativo. Exemplo: ![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.pn)
 
-⚪ **Imagem com link** → faz a imagem ir para um link diferente do link da imagem colocado. Para isso, basta colocar o símbolo da imagem `![alt](URL img)` entre colchetes `[![alt](URL img)]` e depois o endereço que será referenciado entre chaves `(link)` == `[![alt](URL img)](link)`.
+### ⚪ Imagem como link
+ 
+A imagem como link faz ir para um endereço de página diferente do endereço da imagem colocado.  
+Para isso, basta colocar o símbolo da imagem `![alt](URL "title")` entre colchetes `[![alt](URL "title")]` e depois o endereço que será referenciado entre parêntesis `(link)` ↔ `[![alt](URL "title")](link)`.
 
 [![Wiki Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)](https://commons.wikimedia.org/wiki/File:Markdown-mark.svg "Wiki Markdown")
 
-[Voltar para tópicos](#topicos) 
- 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
+  
 <div id="emojis">
 
 ## Emojis
 
+ 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+ 
 São representações de ícones, pequenos símbolos inseridos por `: :` → `:eyes:` = 👀
  
-▬ Exemplos de emojis  
-`:eye:` → 👁️ <br>
-`:muscle:` → 💪 <br> 
-`:+1:` → 👍 <br>
-
-🙃 Outros exemplos de emojis:
+✔️ Forma prática de inserir um emoji é digitar `:` depois as primeiras letras do emoji (em inglês) que abrirá uma guia com emojis.
  
-☚ ☛  ☜  ☝  ☞  ☟  ✌   ✍  ☁  ☄ ☀ ♨ ❄  ✟ ☎ ✂ ☢ ⌛  ✏ ✎ ☠
+🙃 Exemplos de emojis  
  
- Código | emoji
- :--- | :---:
- `:warning:` | ⚠️
- `:heavy_check_mark:` | ✔️
- `:alien: ` | 👽
- `:memo:` | 📝
- `:pushpin:` | 📌
- `:sunny:` | ☀️
- `:sweat_drops:` | 💦
+ Código                     | emoji
+ :---                       | :---:
+ `:warning:`                | ⚠️
+ `:heavy_check_mark:`       | ✔️
+ `:alien: `                 | 👽
+ `:memo:`                   | 📝
+ `:pushpin:`                | 📌
+ `:sunny:`                  | ☀️
+ `:sweat_drops:`            | 💦
  `:vertical_traffic_light:` | 🚦
- `:interrobang:` | ⁉️
- `:white_circle:` | ⚪
- `:octocat:` | :octocat:
+ `:interrobang:`            | ⁉️
+ `:white_circle:`           | ⚪
+ `:octocat:`                | :octocat:
  
-‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗
-- `alt 1` = ☺   | 
+‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗
+- `alt 1` = ☺   
 - `alt 3` = ♥
 - `alt 4` = ♦
 - `alt 11` = ♂
@@ -303,67 +308,22 @@ São representações de ícones, pequenos símbolos inseridos por `: :` → `:e
 - `alt 176` = ░
 - `alt 177` = ▒
 - `alt 178` = ▓
-- `alt 219` = █
-
- ‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗
+- `alt 219` = █  
+ 
+‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗
   
- ✔️ [Lista completa de emojis](https://github.com/ikatyang/emoji-cheat-sheet)🔗
-
-
-[Voltar para tópicos](#topicos) 
+☠ Outros exemplos de emojis:
  
-<div id="emojis">
+☚ ☛  ☜  ☝  ☞  ☟  ✌   ✍  ☁  ☄ ☀ ♨ ❄  ✟ ☎ ✂ ☢ ⌛  ✏ ✎ 
  
+✔️ [Lista completa de emojis](https://github.com/ikatyang/emoji-cheat-sheet)🔗
+
+<br>
  
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
  
- 
- █ video
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="Texto ALT da imagem aqui" width="240" height="180" border="10" /></a>
- 
-<!-- 
- 
- ## KaTeX
 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
- 
- 
- https://lealtudo.blogspot.com/2013/09/codigo-de-teclado-alt-ascii-alt.html
  ___
 
 <div id="rodape">
@@ -371,5 +331,5 @@ C --> D
 [Introdução](#topo) - [Tópicos](#topicos) 
   
 <div class="footer">
-    <center>&copy; 2022 Karine s m Rodrigues</center>
+    &copy; 2022 Karine s m Rodrigues
 </div>
