@@ -1,5 +1,7 @@
 # ☺ MARKDOWN ✍ 
 
+<div id="topo">
+
 **Markdown** é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz que converte texto em HTML válido.  
 Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
 
@@ -27,11 +29,9 @@ ___
 [Citação simples e aninhada](#citar)  
 [Inserir códigos](#code)  
 [Links](#links)  
-[Âncoras](ancoras)  
-[]() []() []()
-
-_
-
+[Ancoras](#ancoras)  
+[Imagens](#img)  
+[Emojis](#emojis)
 
 <div id="titulos">
 
@@ -52,7 +52,8 @@ Título principal
 Subtítulo 
 ---
 ~~~
- 
+
+[Voltar para tópicos](#topicos) 
   
 <div id="hr">
  
@@ -62,6 +63,7 @@ Subtítulo
 - 3 asteriscos \***
 - 3 underlines ___
 
+[Voltar para tópicos](#topicos) 
 
 <div id="p">
  
@@ -69,6 +71,7 @@ Subtítulo
 
 Você pode criar um novo parágrafo deixando uma linha em branco entre as linhas de texto.
 
+[Voltar para tópicos](#topicos) 
 
 <div id="br">
 
@@ -77,6 +80,7 @@ Você pode criar um novo parágrafo deixando uma linha em branco entre as linhas
 Pode-se usar **2 espaços no final da linha** ou a tag \<br> - quebra de linha do HTML no arquivo em Markdown.  
 As tags HTML são aceitas em Markdown.
 
+[Voltar para tópicos](#topicos) 
 
 <div id="formatar">
  
@@ -99,6 +103,7 @@ Isso é possível em Markdown?
 🟡 Texto marcado com cor 
 ___
 
+[Voltar para tópicos](#topicos) 
 
 <div id="simbolos">
  
@@ -109,7 +114,8 @@ Para mostrar exatamente o símbolo basta usar uma barra invertida \ antes do sí
 Exemplo: `\#` mostrará o símbolo \# sem o efeito de título. 
  
 \# Título sem a formatação padrão.
- 
+
+[Voltar para tópicos](#topicos) 
  
 <div id="citar">
  
@@ -142,7 +148,8 @@ Para criar um bloco aninhado de citações, utilize **2 ou mais sinais de maior 
 >>>> citação nível 4
 >>>>
  
-    
+[Voltar para tópicos](#topicos) 
+ 
 <div id="code">
 
 ## Inserir códigos de linguagens
@@ -175,18 +182,20 @@ Para criar um bloco aninhado de citações, utilize **2 ou mais sinais de maior 
 
     ☞ Essa forma não é indicada para colocar trechos de linguagens de programação.
 
-
+[Voltar para tópicos](#topicos) 
+ 
 <div id="links">
  
-## Links
+## Links 
 
-O símbolo `[link](URL)` → onde a descrição fica entre colchetes e o endereço do link entre parênteses.
+O símbolo `[link](URL)` → onde a descrição fica entre colchetes e o endereço do link entre parênteses.  
+Para colocar o símbolo de forma prárica pressione **Ctrl K** no teclado.
 
-Exemplo: [Pesquisa Google](https://www.google.com/)
+Exemplo: [Pesquisa Google](https://www.google.com/) - 🟨 <a href="https://www.google.com/" target="_blank" rela="external">Goocle</a> 🟨
 
 ▬ **Link relativo** → `[link](docs/CONTRIBUTING.md)` → pode usar os **operandos ./ e ../** para acessar as pastas.
 
-▬ **Link direto** → envolva o endereço da web entre **chaves <>** ou colocar a URL completa. https://www.google.com/
+▬ **Link direto** → envolva o endereço da web entre **chaves <>** ou colocar a URL completa. <https://www.google.com/>
 
 
 <div id="ancoras">
@@ -197,53 +206,88 @@ Fazer âncoras no texto, ou seja, links dentro do texto.
 
 `[Tópicos](#topicos)` → leva a página até o conteúdo referenciado por uma div `<div id="topicos">` 
 
-☞ Exemplo: [Ir para Tópicos](#topicos)
+☞ Exemplo: [Voltar para Tópicos](#topicos)
 
 ✎ Com esse exemplo é possível criar sumários e íncices de tópicos no texto.
 
 
-## 2.11. Imagens
+<div id="img">
+ 
+## Imagens
 
-Símbolo **\!\[img](URL)** → abre colchetes vazio e a URL da imagem entre parênteses. 
+O símbolo `![]()` ☛ `![alt](URL "title")` → colocar o texto alternativo entre colchetes, o link da imagem entre parêntesis e a descrição da imagem entre aspas duplas - ao passar o mouse sobre ela vai mostrar o texto. Tem a mesma função da tag <title> do HTML.
 
-![CursoemVideo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
+![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Logo do Markdown")
+ 
+✅ A função do texto alternativo é primordial, pois caso a imagem não carregar na página - aparecerá o ícone de link quebrado + o texto alternativo.
+ 
+![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.pn)
 
-♦ **Imagem com título** → colocar uma descrição da imagem quando passar o mouse sobre ela. Tem a mesma função da tag \<title> do Html. Para isso, coloque após a url da imagem, a descrição entre aspas duplas: \!\[ ](URL "descrição").
+⚪ **Imagem com link** → faz a imagem ir para um link diferente do link da imagem colocado. Para isso, basta colocar o símbolo da imagem `![alt](URL img)` entre colchetes `[![alt](URL img)]` e depois o endereço que será referenciado entre chaves `(link)` == `[![alt](URL img)](link)`.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Logo do Markdown")
+[![Wiki Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)](https://commons.wikimedia.org/wiki/File:Markdown-mark.svg "Wiki Markdown")
 
-♦ **Imagem com link** → faz a imagem ir para um link. **\[![ ](URL img)](link)**.
+[Voltar para tópicos](#topicos) 
+ 
+<div id="emojis">
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)](https://commons.wikimedia.org/wiki/File:Markdown-mark.svg)
+## Emojis
 
- **img completo**
-![alt text.](/image/sample.png "Title")
+São representações de ícones, pequenos símbolos inseridos por `: :` → `:eyes:` = 👀
+ 
+▬ Exemplos de emojis  
+`:eye:` → 👁️ <br>
+`:muscle:` → 💪 <br> 
+`:+1:` → 👍 <br>
 
-___
-
-## 2.12. Emojis
-
-São representados entre símbolos de **:emoji:**
-
-:eyes:  :muscle:  :clap:  :+1:
-
-👀      💪       👏      👍
+🙃 Outros exemplos de emojis:
  
 ☚ ☛  ☜  ☝  ☞  ☟  ✌   ✍  ☁  ☄ ☀ ♨ ❄  ✟ ☎ ✂ ☢ ⌛  ✏ ✎ ☠
  
-:warning:  :heavy_check_mark:  :link:  :o:  :memo:  :pushpin:  :sunny:  :sweat_drops:  :vertical_traffic_light: :interrobang: :white_circle: :octocat:
+ Código | emoji
+ :--- | :---:
+ `:warning:` | ⚠️
+ `:heavy_check_mark:` | ✔️
+ `:alien: ` | 👽
+ `:memo:` | 📝
+ `:pushpin:` | 📌
+ `:sunny:` | ☀️
+ `:sweat_drops:` | 💦
+ `:vertical_traffic_light:` | 🚦
+ `:interrobang:` | ⁉️
+ `:white_circle:` | ⚪
+ `:octocat:` | :octocat:
+ 
+‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗
+- `alt 1` = ☺   | 
+- `alt 3` = ♥
+- `alt 4` = ♦
+- `alt 11` = ♂
+- `alt 12` = ♀
+- `alt 18` = ↕
+- `alt 19` = ‼
+- `alt 29` = ↔
+- `alt 176` = ░
+- `alt 177` = ▒
+- `alt 178` = ▓
+- `alt 219` = █
+
+ ‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗
+  
+ ✔️ [Lista completa de emojis](https://github.com/ikatyang/emoji-cheat-sheet)🔗
 
 
-► Emoji-Cheat-Sheet  
-► https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
- https://github.com/ikatyang/emoji-cheat-sheet
-
-
+[Voltar para tópicos](#topicos) 
+ 
+<div id="emojis">
+ 
+ 
+ 
  
  █ video
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="Texto ALT da imagem aqui" width="240" height="180" border="10" /></a>
  
- 
+<!-- 
  
  ## KaTeX
 
@@ -289,6 +333,7 @@ C --> D
  https://lealtudo.blogspot.com/2013/09/codigo-de-teclado-alt-ascii-alt.html
  ___
 
+ -->
 <div class="footer">
     <center>&copy; 2022 Karine s m Rodrigues</center>
 </div>
