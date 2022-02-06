@@ -1,13 +1,13 @@
+<div id="topo">
+ 
 # ☺ MARKDOWN ✍ 
 
-<div id="topo">
-
 **Markdown** é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz que converte texto em HTML válido.  
-Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
+Markdown é frequentemente usado para formatar arquivos *README.md*, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
 
 A rede social para desenvolvedores: **Github** é compatível com a linguagem Markdown. 
 
-Os arquivos **README.md** dos repositórios no Github, são feitos com a linguagem Markdown.
+Os arquivos *README.md* dos repositórios no Github, são feitos com a linguagem Markdown.
 
 `.md` → é a extensão para os arquivos em Markdown.
 
@@ -20,22 +20,24 @@ ___
  
 ## ▼ Tópicos do conteúdo
 
-[Hierárquia de títulos](#titulos)  
-[Linha horizontal](#hr)  
-[Parágrafos](#p)  
-[Quebra de linha](#br)  
-[Formatação básica](#formatar)  
-[Mostrar os símbolos no texto](#simbolos)  
-[Citação simples e aninhada](#citar)  
-[Inserir códigos](#code)  
-[Links](#links)  
-[Ancoras](#ancoras)  
-[Imagens](#img)  
-[Emojis](#emojis)
+🔹 [Hierárquia de títulos](#titulos)  
+🔹 [Linha horizontal](#hr)  
+🔹 [Parágrafos](#p)  
+🔹 [Quebra de linha](#br)  
+🔹 [Formatação básica](#formatar)  
+🔹 [Mostrar os símbolos do Markdown](#simbolos)  
+🔹 [Citação simples e aninhada](#citar)  
+🔹 [Inserir códigos](#code)  
+🔹 [Links](#links)  
+🔹 [Âncoras](#ancoras)  
+🔹 [Imagens](#img)  
+🔹 [Emojis](#emojis)
 
+___
+ 
 <div id="titulos">
 
-## ✎ Hierárquia de títulos 
+## ░ Hierárquia de títulos 
 
 - \# Título nível 1
 - \## Título nível 2
@@ -53,38 +55,42 @@ Subtítulo
 ---
 ~~~
 
-[Voltar para tópicos](#topicos) 
-  
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape) 
+___
+
 <div id="hr">
  
-## Linha horizontal
+## ░ Linha horizontal
 
 - 3 traços \---
 - 3 asteriscos \***
 - 3 underlines ___
 
-[Voltar para tópicos](#topicos) 
-
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___
+ 
 <div id="p">
  
-## Parágrafos
+## ░ Parágrafos
 
-Você pode criar um novo parágrafo deixando uma linha em branco entre as linhas de texto.
+Você pode criar um novo parágrafo **deixando uma linha em branco** entre as linhas de texto.
 
-[Voltar para tópicos](#topicos) 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___
 
 <div id="br">
 
-## Quebra de linha
+## ░ Quebra de linha
 
 Pode-se usar **2 espaços no final da linha** ou a tag \<br> - quebra de linha do HTML no arquivo em Markdown.  
-As tags HTML são aceitas em Markdown.
+☞ As tags HTML são aceitas em Markdown.
 
-[Voltar para tópicos](#topicos) 
-
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___
+ 
 <div id="formatar">
  
-## Formatação básica
+## ░ Formatação básica
 
 **▬ Negrito:** São 2 asteriscos ou 2 underlines ou Ctrl B. `**negrito** ou __negrito__`  **texto em negrito**
 
@@ -96,36 +102,38 @@ As tags HTML são aceitas em Markdown.
 
 **▬ Todo o texto em negrito-itálico:** são 3 asteriscos ou 3 underlines. `***Tudo em negrito e itálico*** ou ___tudo em negrito e itálico___` ***Tudo em negrito e itálico de forma mais simples.***
 
-___
+‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ 
  
 Isso é possível em Markdown?  
 🟡 Texto  sublinhado  
-🟡 Texto marcado com cor 
+🟡 Texto marcado com cor  
+‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
+
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
 ___
-
-[Voltar para tópicos](#topicos) 
-
+ 
 <div id="simbolos">
  
-## Mostrar os símbolos no texto
+## ░ Mostrar os símbolos do Markdown no texto
 
-Para mostrar exatamente o símbolo basta usar uma barra invertida \ antes do símbolo. Isso faz parar o efeito de formatação.
+Para mostrar exatamente o símbolo basta usar uma barra invertida `\` antes do símbolo. Isso faz parar o efeito de formatação.
  
 Exemplo: `\#` mostrará o símbolo \# sem o efeito de título. 
  
 \# Título sem a formatação padrão.
 
-[Voltar para tópicos](#topicos) 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___
  
 <div id="citar">
  
-## Citação
+## ░ Citação
  
 O sinal de `>` no início da linha indica uma citação. 
 
 > Você pode citar automaticamente o texto em um *comentário* ***destacando o texto e digitando R***.
 
-### Citação aninhada
+### ⚪ Citação aninhada
 
 Para criar um bloco aninhado de citações, utilize **2 ou mais sinais de maior que** `>>` antes do parágrafo.
  
@@ -147,16 +155,21 @@ Para criar um bloco aninhado de citações, utilize **2 ou mais sinais de maior 
 >>> 
 >>>> citação nível 4
 >>>>
+<br>
  
-[Voltar para tópicos](#topicos) 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___
  
 <div id="code">
 
-## Inserir códigos de linguagens
+## ░ Inserir códigos de linguagens
 
-▬ **Código inline →** colocar entre crases \` \` O código delimitado ou Ctrl E. Isso faz o texto ficar com uma fonte monoespaçada e com fundo acinzentado para dar destaque. Exemplo: `window.document.querySelector()` é escrito em linguagem JavaScript.
+▬ **Código inline →** colocar entre crases \` \` O código delimitado ou **Ctrl E**. Isso faz o texto ficar com uma fonte monoespaçada e com fundo acinzentado para dar destaque. Exemplo: `window.document.querySelector()` é escrito em linguagem JavaScript.
 
-▬ **Código em linhas →** colocar o código entre 3 crases ``` ou 3 tils ~~~ consecutivos sem espaço entre eles.
+### ⚪ Código de bloco
+ 
+Basta colocar o código entre 3 crases ``` ou 3 tils ~~~ consecutivos sem espaço entre eles.  
+Exemplo logo abaixo.
 
 \~\~\~ python  
  num = int(input('Digite um número: '))  
@@ -176,31 +189,49 @@ Para criar um bloco aninhado de citações, utilize **2 ou mais sinais de maior 
     print('Fim do Programa') 
 ~~~
 
-▬ **Código de linhas simples →** Basta colocar 4 espaços antes do texto. 
+### ⚪ Código de bloco simples
+ 
+Basta colocar **4 espaços** antes do texto para abrir o espaço reservado. 
 
     Exemplo para textos.
 
     ☞ Essa forma não é indicada para colocar trechos de linguagens de programação.
 
-[Voltar para tópicos](#topicos) 
+ 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___
  
 <div id="links">
  
-## Links 
+## ░ Links 
 
-O símbolo `[link](URL)` → onde a descrição fica entre colchetes e o endereço do link entre parênteses.  
+O símbolo `[descrição](URL "title")` → onde a descrição fica entre colchetes e o endereço do link entre parênteses. O title tem a mesma função da tag \<title> no HTML, ele mostra uma mensagem ao passar o mouse sobre o link.
+ 
 Para colocar o símbolo de forma prárica pressione **Ctrl K** no teclado.
 
-Exemplo: [Pesquisa Google](https://www.google.com/) - 🟨 <a href="https://www.google.com/" target="_blank" rela="external">Goocle</a> 🟨
+Exemplo: [Pesquisa Google](https://www.google.com/ "Esse link abre a página na mesma ABA de seu navegador!")
 
-▬ **Link relativo** → `[link](docs/CONTRIBUTING.md)` → pode usar os **operandos ./ e ../** para acessar as pastas.
+### ⚪ Link relativo 
+ 
+É o link interno do site. Exemplo: `[link](docs/markdown.md)` → pode usar os **operandos ./ e ../** para acessar as pastas.
 
-▬ **Link direto** → envolva o endereço da web entre **chaves <>** ou colocar a URL completa. <https://www.google.com/>
+### ⚪ Link direto
+ 
+É o endereço da web entre **chaves <>** ou a URL completa colada na página. Exemplo: <https://www.google.com/>
 
+‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
+ 
+   É possível colocar um link em Markdown:  
+🟡 Que abra em outra aba do navegador?  
+‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗  ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
+
+ 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
 
 <div id="ancoras">
  
-## Âncoras
+## ░ Âncoras
 
 Fazer âncoras no texto, ou seja, links dentro do texto.
 
@@ -208,9 +239,11 @@ Fazer âncoras no texto, ou seja, links dentro do texto.
 
 ☞ Exemplo: [Voltar para Tópicos](#topicos)
 
-✎ Com esse exemplo é possível criar sumários e íncices de tópicos no texto.
-
-
+⚓ Com esse exemplo é possível criar sumários e índices de tópicos no texto.
+ 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
+ 
 <div id="img">
  
 ## Imagens
@@ -333,7 +366,10 @@ C --> D
  https://lealtudo.blogspot.com/2013/09/codigo-de-teclado-alt-ascii-alt.html
  ___
 
- -->
+<div id="rodape">
+ 
+[Introdução](#topo) - [Tópicos](#topicos) 
+  
 <div class="footer">
     <center>&copy; 2022 Karine s m Rodrigues</center>
 </div>
