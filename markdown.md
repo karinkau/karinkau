@@ -1,19 +1,20 @@
  # MARKDOWN
 
-**Markdown** é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz que converte texto em HTML v lido.  
-Markdown ‚ frequentemente usado para formatar arquivos README, para escrever mensagens em f¢runs de discuss„o online e para criar rich text usando um editor de texto simples.
+**Markdown** é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz que converte texto em HTML válido.  
+Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
 
-A rede social para desenvolvedores: **Github** ‚ compat¡vel com a linguagem Markdown. 
+A rede social para desenvolvedores: **Github** ‚ compatível com a linguagem Markdown. 
 
-Os arquivos **README.md** dos reposit¢rios no Github, s„o feitos com a linguagem Markdown.
+Os arquivos **README.md** dos repositórios no Github, são feitos com a linguagem Markdown.
 
-> **.md**  ‚ a extens„o para os arquivos em Markdown.
+> **.md** → é a extensão para os arquivos em Markdown.
 
-Outra linguagem de marca‡„o ‚ a *HTML*.  Essas linguagens s„o para desenvolvimento. N„o s„o linguagens de programa‡„o. 
+Outra linguagem de marcação ‚ a *HTML*.  
+Tanto Markdown quanto HTML são linguagens para desenvolvimento. Nãoo são linguagens de programação. 
 
 ___
 
-##  T¢picos do conte£do <!--ancoras-->
+## ▼ Tópicos do conte£do <!--ancoras-->
 
 [Hier rquia de t¡tulos](#titulos)  
 [Linha horizontal](#hr)  
