@@ -1,6 +1,8 @@
 <div id="topo">
  
 # ☺ MARKDOWN ✍ 
+ 
+⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 
 
 **Markdown** é uma linguagem simples de marcação originalmente criada por John Gruber e Aaron Swartz que converte texto em HTML válido.  
 Markdown é frequentemente usado para formatar arquivos *README.md*, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
@@ -22,11 +24,11 @@ ___
  
 📌 Comandos básicos                 | 📌 Links               | 📌 Designer            | 📌 Comandos de blocos      | 📌 Menções |
 ---                                  | ---                    | ---                    | ---                         | ---         |
-🔹 [Hierárquia de títulos](#titulos) | 🔹 [Âncoras](#ancoras) | 🔹 [Imagens](#img)     | 🔹 [Citação](#citar)        | 🔹         |
-🔹 [Linha horizontal](#hr)           | 🔹 [Links](#links)     | 🔹 [Emojis](#emojis)   | 🔹 [Inserir códigos](#code) | 🔹         |
-🔹 [Parágrafos](#p)                  | 🔹                     | 🔹                     | 🔹                          | 🔹         |
-🔹 [Quebra de linha](#br)            | 🔹                     | 🔹                     | 🔹                          | 🔹         |
-🔹 [Formatação básica](#formatar)    | 🔹                     | 🔹                     | 🔹                          | 🔹         |
+🔹 [Hierárquia de títulos](#titulos) | 🔹 [Âncoras](#ancoras) | 🔹 [Imagens](#img)     | 🔹 [Citação](#citar)        | 🔹 [Menção ao usuário](#usuario) |
+🔹 [Linha horizontal](#hr)           | 🔹 [Links](#links)     | 🔹 [Emojis](#emojis)   | 🔹 [Inserir códigos](#code) | 🔹 [Menção a Issues](#issues)    |
+🔹 [Parágrafos](#p)                  | 🔹                     | 🔹                     | 🔹 [Listas](#listas)        | 🔹         |
+🔹 [Quebra de linha](#br)            | 🔹                     | 🔹                     | 🔹 [Nota de rodapé](#notas) | 🔹         |
+🔹 [Formatação básica](#formatar)    | 🔹                     | 🔹                     | 🔹 [Tabelas](#tabelas)      | 🔹         |
 🔹 [Inserir símbolos](#simbolos)     | 🔹                     | 🔹                     | 🔹                          | 🔹         | 
  
 ___
@@ -258,7 +260,8 @@ O símbolo `![]()` ☛ `![alt](URL "title")` → onde o texto alternativo fica e
 
 ![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Logo do Markdown")
  
-✅ A função do texto alternativo é primordial, pois caso a imagem não carregar na página - aparecerá o ícone de link quebrado + o texto alternativo. Exemplo: ![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.pn)
+✅ A função do texto alternativo é primordial, pois caso a imagem não carregar na página - aparecerá o ícone de link quebrado + o texto alternativo. Exemplo:  
+ ![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.pn)
 
 ### ⚪ Imagem como link
  
@@ -322,8 +325,201 @@ São representações de ícones, pequenos símbolos inseridos por `: :` → `:e
  
 [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
 ___ 
- 
 
+<div id="tabelas">
+ 
+## ░ Tabelas
+ 
+São simplesmente fáceis em Markdown. Basta usar as barrass em pé `|` para fazer a demarcação da tabela.
+ 
+    Ano   | Curso       | Professor         | Aulas
+    :---: | ---:        | :---              | :---: 
+    2013  | HTML+CSS+JS | Gustavo Guanabara | 36 
+    2018  | Hardware    | Alfredo Jr        | 28 
+    2019  | Linux       | Ricardo Pinheiro  | 15
+  
+ 
+✔️ Usar as barras em pé (pipes) | e os traços organizam os espaços da tabela.
+ 
+Ano   | Curso       | Professor         | Aulas
+:---: | ---:        | :---              | :---: 
+2013  | HTML+CSS+JS | Gustavo Guanabara | 36 
+2018  | Hardware    | Alfredo Jr        | 28 
+2019  | Linux       | Ricardo Pinheiro  | 15
+
+ 
+✅ Formatação dos elementos da tabela:
+ 
+* `---`      Formatação padrão (alinhamento à esquerda)
+* `:---`     Alinhamento à esquerda 
+* `:---:`    Conteúdo Centralizado 
+* `---:`     Alinhamento à direita
+ 
+<br>
+ 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
+
+<div id="listas">
+ 
+## ░ Listas
+ 
+### ⚪ Lista ordenada - numerada
+ 
+Comece a lista com um número seguido de um ponto. `1.`
+
+    1. Brasil
+       1. Minas Gerais
+          1. Brasília
+       1. Rio de Janeiro
+    1. Comidas
+       1. Acarajé
+       1. Pizza
+          1. Empada
+ 
+► Resultado:  
+ 
+Para criar níveis na demarcação - basta inserir **três ou mais espaços antes do marcador**.
+O primeiro número da lista vai indicar onde começa a lista, os itens seguintes, se estiverem em linhas consecutivas, vão continuar a sequência. 
+ 
+1. Brasil
+    1. Minas Gerais
+        1. Brasília
+    1. Rio de Janeiro
+1. Comidas
+    1. Acarajé
+    1. Pizza
+        1. Empada
+
+### ⚪ Lista não ordenada - marcadores
+ 
+Basta usar um asterisco seguido de um espaço ou um traço seguido de espaço `*  ou - ` no início de uma linha para que ela seja parte de uma lista demarcada por símbolos.
+ 
+    - Brasil
+      - Minas Gerais
+        - Brasília
+      - Rio de Janeiro
+    - Comidas
+      - Acarajé
+      - Pizza
+        - Empada
+
+► Resultado:  
+ 
+Para criar níveis na demarcação - basta inserir **2 espaços ou 4 espaços antes do marcador**.
+ 
+- Brasil
+  - Minas Gerais
+    - Brasília
+  - Rio de Janeiro
+- Comidas
+  - Acarajé
+  - Pizza
+    - Empada 
+ 
+### ⚪ Lista aninhada 
+ 
+É a junção da lista ordenada por números pela lista ordenada por marcadores. 
+ 
+~~~
+1. Brasil
+   1. Minas Gerais
+      - Brasília
+   1. Rio de Janeiro
+1. Comidas
+   1. Acarajé
+   1. Pizza
+      - Empada
+      - Coxinha
+         - Pastel
+ ~~~
+ 
+ ► Resultado:
+ 
+1. Brasil
+   1. Minas Gerais
+      - Brasília
+   1. Rio de Janeiro
+1. Comidas
+   1. Acarajé
+   1. Pizza
+      - Empada
+      - Coxinha
+         - Pastel
+ 
+ 
+### ⚪ Lista de tarefas
+  
+Colocando um sinal `-[ ] ou -[x]` antes de cada item, criamos listas de tarefa com itens marcados ou desmarcados.
+ 
+~~~
+- [ ] pão
+- [x] leite
+- [ ] manteiga
+~~~
+ 
+► Resultado:
+ 
+- [ ] pão
+- [x] leite
+- [ ] manteiga
+
+<br>
+ 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
+
+<div id="notas">
+ 
+## ░ Notas de rodapé
+ 
+✔️ As notas de rodapé são marcadas por cochetes `[^1]`
+
+~~~
+Aqui está uma simples nota de rodapé[^1].  
+Uma nota de rodapé também pode ter várias linhas[^2].  
+Você também pode usar palavras para se adequar melhor ao seu estilo de escrita[^note].
+~~~
+ 
+Aqui está uma simples nota de rodapé[^1].  
+Uma nota de rodapé também pode ter várias linhas[^2].  
+Você também pode usar palavras para se adequar melhor ao seu estilo de escrita[^note].
+
+✔️ O texto que ficará no rodapé da página inicia com `[^1]: texto.`
+
+~~~
+[^1]: Minha referência.
+[^2]: Cada nova linha deve ser prefixada com 2 espaços. Isso permite que você tenha uma nota de rodapé com várias linhas.
+[^note]: As notas de rodapé nomeadas ainda serão renderizadas com números em vez do texto, mas permitirão uma identificação mais fácil. Esta nota de rodapé também foi feita com uma sintaxe diferente usando 4 espaços para novas linhas.
+~~~
+ 
+[^1]: Minha referência.
+[^2]: Cada nova linha deve ser prefixada com 2 espaços. Isso permite que você tenha uma nota de rodapé com várias linhas.
+[^note]: As notas de rodapé nomeadas ainda serão renderizadas com números em vez do texto, mas permitirão uma identificação mais fácil. Esta nota de rodapé também foi feita com uma sintaxe diferente usando 4 espaços para novas linhas.
+ 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
+
+<div id="usuario">
+ 
+## ░ Menções ao usuário
+ 
+A menção ao usuário é feita com \@nome-do-usuário.
+ 
+Meu perfil no Github é @karinkau
+ 
+<div id="issues">
+ 
+## ░ Menções a Issues ou Pullrequests
+ 
+A menção a Issues ou a Pullrequests é feita com \#numero-da-issue = `#1`
+
+Citar Issues ou Pullrequests de nosso repositório usando o símbolo de # seguido do número do elemento (sem espaços).
+Analisando o Issue #3, concluo ....
+
+ 
+ 
+ 
  ___
 
 <div id="rodape">
