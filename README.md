@@ -1,4 +1,4 @@
-# Olá! Eu sou  ♂♀ Karin Kau  👋 💚 👽
+# Olá! Eu sou  ♂♀ <ins>Karin Kau</ins>  👋 💚 👽
 
 ♥  Estou aprendendo HTML5 + CSS3 e JavaScript.
 <img align="center" alt="karinkau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> + 
