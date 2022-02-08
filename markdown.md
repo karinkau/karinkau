@@ -1,6 +1,6 @@
 <div id="topo">
  
-# ☺ MARKDOWN ✍ 
+ # ☺ MARKDOWN ✍ 
  
 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 
 
@@ -81,8 +81,10 @@ ___
 ## ░ Quebra de linha
 
 Pode-se usar **2 espaços no final da linha** ou a tag \<br> - quebra de linha do HTML no arquivo em Markdown.  
-☞ As tags HTML são aceitas em Markdown.
-
+Também é possível colocando a barra invertida no final da linha `\`\
+e saltando para baixo para fazer a quebra.\
+☞ Algumas tags HTML são aceitas em Markdown.
+ 
 [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
 ___
  
@@ -95,6 +97,12 @@ ___
 **_▬ Itálico:_** é 1 asterisco ou 1 underline ou Ctrl I. `*itálico* ou _itálico_`  *texto em itálico*
 
 **▬ Texto excluído:** são 2 tils. `~~riscado~~` ~~texto excluído~~
+ 
+**▬ Texto sublinhado:** usando a tag Html `<ins>texto</ins>` como: <ins>texto sublinhado</ins>
+ 
+**▬ Texto sobrescrito:** usando a tag Html `<sup>texto</sup>` como: sobrescrito<sup>sup</sup> 
+ 
+**▬ Texto subscrito:** usando a tag Html `<sub>texto</sub>` como: subscrito<sub>sub</sub>
 
 **▬ Negrito-itálico:** são 2 asteriscos e 1 underline. `**_negrito-itálico_**` *__texto em negrito-itálico__* 
 
@@ -102,9 +110,10 @@ ___
 
 ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ 
  
-Isso é possível em Markdown?  
-🟡 Texto  sublinhado  
-🟡 Texto marcado com cor  
+Isso é possível em Markdown?
+ 
+🟡 Texto marcado com cor 🟡  → basta colocar o texto entre sinais de igualdade como: ==marcado== ou com a tag Html \<mark\>= <mark>texto com a tag mark</mark>  ▬ Isso não ocorre no Github apenas em outros editores. \
+No https://stackedit.io/ o texto fica mardado de amarelo.\
 ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
 
 [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
@@ -506,7 +515,7 @@ ___
  
 A menção ao usuário é feita com \@nome-do-usuário.
  
-Meu perfil no Github é @karinkau
+Meu perfil no Github é @gafanhotos
  
 <div id="issues">
  
@@ -515,7 +524,7 @@ Meu perfil no Github é @karinkau
 A menção a Issues ou a Pullrequests é feita com \#numero-da-issue = `#1`
 
 Citar Issues ou Pullrequests de nosso repositório usando o símbolo de # seguido do número do elemento (sem espaços).
-Analisando o Issue #3, concluo ....
+Analisando o Issue #1, concluo ....
 
  
  
