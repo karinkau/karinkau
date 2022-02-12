@@ -12,8 +12,6 @@
 Estarei colocando meus códigos disponíveis à medida que aprendo.  
 Que este ano seja repleto de grandes codificações.
 
-___
-
 <!--CONTADORES-->
 <div align="left">
   <a href="https://github.com/karinkau">
