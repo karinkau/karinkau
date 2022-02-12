@@ -1,30 +1,18 @@
 # Olá! Bem-vindo (a)  ♂♀ Eu sou <ins>Karin Kau</ins>  👋 💚 👽
 
-<!--Badges dinâmicos-->
-[![GitHub issues](https://img.shields.io/github/issues/karinkau/karinkau?color=cyan&label=Perguntas:&logo=circle&logoColor=cyan&style=flat&labelColor=00008B)](https://github.com/karinkau/karinkau/issues) - 
-[![GitHub forks](https://img.shields.io/github/forks/karinkau/karinkau?color=cyan&label=Ramificações:&logo=Codeforces&logoColor=cyan&style=flat&labelColor=00008B)](https://github.com/karinkau/karinkau/network) -
-[![GitHub stars](https://img.shields.io/github/stars/karinkau/karinkau?color=cyan&label=Estrelas:&logo=Apache%20Spark&logoColor=cyan&style=flat&labelColor=00008B)](https://github.com/karinkau/karinkau/stargazers) -
-[![GitHub license](https://img.shields.io/github/license/karinkau/karinkau?color=cyan&label=Licença:&logo=Crowdsource&logoColor=cyan&style=flat-square&labelColor=00008B)](https://github.com/karinkau/karinkau) -
-[![Twitter](https://img.shields.io/twitter/url?color=cyan&label=Twitter%3A&logo=twitter&logoColor=cyan&style=flat-square&labelColor=00008B&url=https%3A%2F%2Ftwitter.com%2Fkarin_kau)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fkarinkau%2Fkarinkau)
-___
-
-<br>
-
 <!--Aprendendo-->
- **♥ Estou aprendendo:**
+ **♥ ESTOU APRENDENDO:**
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=gold) +
 ![](https://img.shields.io/badge/CSS3-0C6FB2?style=flat&logo=css3&logoColor=cyan) +
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) +
 ![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) +
 ![](https://img.shields.io/badge/BADGES-000021?style=flat&logo=github&logoColor=9cf) + 
-![](https://img.shields.io/badge/Git_&_Github-696969?style=flat&logo=github&logoColor=black)
+![](https://img.shields.io/badge/Git_&_Github-2F4F4F?style=flat&logo=github&logoColor=black)
 
 Estarei colocando meus códigos disponíveis à medida que aprendo.  
 Que este ano seja repleto de grandes codificações.
 
 ___
-
-<br>
 
 <!--CONTADORES-->
 <div align="left">
