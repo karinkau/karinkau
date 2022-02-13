@@ -48,16 +48,12 @@ Que este ano seja repleto de grandes codificações.
 <img align="center" alt="karinkau-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="karinkau-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 -->
-
+___
+  
 <!--Ebooks-->
 ***RESUMO DOS ESTUDOS →*** 
-  
-[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf)
-  
-[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080)](./main/ebook/github-pages.pdf)
-  
-[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080)](/main/ebook/github-pages.pdf)
-  
-  
+[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-00008F?labelColor=87CEEB&style=flat&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf)
+
+
 ☺ Que este seja o início de grandes criações.  <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width = "30px">
 </div><!--/símbolos-->
