@@ -51,11 +51,12 @@ Que este ano seja repleto de grandes codificações.
 
 <!--Ebooks-->
 ***RESUMO DOS ESTUDOS →*** 
-![](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080&link=https://github.com/karinkau/karinkau/blob/main/ebook/github-pages.pdf)
   
-![](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080&link=../main/ebook/github-pages.pdf)
+[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf)
   
-[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080)](..main/ebook/github-pages.pdf)
+[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080)](./main/ebook/github-pages.pdf)
+  
+[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080)](/main/ebook/github-pages.pdf)
   
   
 ☺ Que este seja o início de grandes criações.  <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width = "30px">
