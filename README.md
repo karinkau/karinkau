@@ -28,17 +28,16 @@ Que este ano seja repleto de grandes codificações.
 <a href="https://instagram.com/karinkau13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/karinkau/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/karinkau"><img src = "https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/karinkau"></a>
-
 <!--
    <a href ="mailto:karinkau13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 -->
-
+  
+ ___
+  
 <!--LINGUAGENS-->
-
-***LINGUAGEM EM USO:***
-
-<img align="center" alt="karinkau-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
+***LINGUAGEM EM USO →***
+<img align="center" alt="karinkau-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="karinkau-github" height="30" width="40" src="https://avatars.githubusercontent.com/in/15368?s=64&v=4/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" alt="karinkau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="karinkau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -51,10 +50,11 @@ Que este ano seja repleto de grandes codificações.
 -->
 
 <!--Ebooks-->
-<br>
-
-***RESUMO DOS ESTUDOS***
-
-![](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080&link=https://github.com/karinkau/karinkau/blob/main/ebook/github-pages.pdf) -
+***RESUMO DOS ESTUDOS →*** 
+![]() 
+  
+[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-000080?labelColor=87CEEB&style=plastic&logo=github&logoColor=000080)](../ebook/github-pages.pdf)
+  
+  
 ☺ Que este seja o início de grandes criações.  <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width = "30px">
 </div><!--/símbolos-->
