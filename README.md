@@ -1,7 +1,7 @@
 # Olá! Bem-vindo (a)  ♂♀ Eu sou <ins>Karin Kau</ins>  👋 💚 👽
 
 <!--Aprendendo-->
- **♥ ESTOU APRENDENDO:**
+ **♥ ESTOU APRENDENDO:** 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=gold) +
 ![](https://img.shields.io/badge/CSS3-0C6FB2?style=flat&logo=css3&logoColor=cyan) +
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) +
@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/BADGES-000021?style=flat&logo=github&logoColor=9cf) + 
 ![](https://img.shields.io/badge/Git_&_Github-2F4F4F?style=flat&logo=github&logoColor=black)
 
-Estarei colocando meus códigos disponíveis à medida que aprendo.  
+Estarei colocando meus códigos disponíveis à medida em que estudo.  
 Que este ano seja repleto de grandes codificações.
 
 <!--CONTADORES-->
@@ -52,8 +52,8 @@ ___
   
 <!--Ebooks-->
 ***RESUMO DOS ESTUDOS →*** 
-[![alt](https://img.shields.io/badge/Ebook:-Github_Pages-00008F?labelColor=87CEEB&style=flat&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf)
-
+[![alt](https://img.shields.io/badge/Ebook:-GITHUB_PAGES-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf) ♦ 
+[![alt](https://img.shields.io/badge/Ebook:-BADGES_EMBLEMAS-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/badges-github.pdf)
 
 ☺ Que este seja o início de grandes criações.  <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width = "30px">
 </div><!--/símbolos-->
