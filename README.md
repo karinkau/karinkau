@@ -12,6 +12,8 @@
 Estarei colocando meus códigos disponíveis à medida em que estudo.  
 Que este ano seja repleto de grandes codificações.
 
+![Profile-Views-Counter]( https://komarev.com/ghpvc/?username=karinkau&style=flat&label=Visualizações+=&color=FF00FF)
+
 <!--CONTADORES-->
 <div align="left">
   <a href="https://github.com/karinkau">
