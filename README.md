@@ -55,11 +55,23 @@ ___
 <!--Ebooks-->
 ### 📚 ✍️ RESUMO DOS ESTUDOS EM PDF 
   
-  
 [![GITHUB PAGES](https://img.shields.io/badge/Ebook:-GITHUB_PAGES-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf) ♦ 
 [![BADGES EMBLEMAS](https://img.shields.io/badge/Ebook:-BADGES_EMBLEMAS-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/badges-github.pdf) ♦
 [![PROFILE VIEWS COUNTER](https://img.shields.io/badge/Ebook:-PROFILE_VIEWS_COUNTER-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/profile-views-counter.pdf)
   
+___
+
+### 📚 ✍️ SITES EM DESENVOLVIMENTO
+
+[JavaScript](karinkau.github.io/javascript/)
+
+[HTML5 & CSS3](https://karinkau.github.io/html5-css3/index.html)
+
+[Site Android](https://karinkau.github.io/site-android/)
+
+[Tema Github page](https://karinkau.github.io/ola-mundo/)
+
+
 ___
 
 ☺ Que este seja o início de grandes criações.  <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width = "30px">
