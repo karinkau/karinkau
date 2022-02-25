@@ -26,6 +26,7 @@ Que este ano seja repleto de grandes codificações.
   
 <!--REDES SOCIAIS-->
 <a href ="mailto:karinkau13@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:karinkau13@gmail.com" target="_blank"></a>
+<a href="https://twitter.com/karin_kau" target="_blank"><img src="https://img.shields.io/badge/Twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white"     target="_blank"></a> 
 <a href="https://www.facebook.com/karinkau" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"     target="_blank"></a> 
 <a href="https://instagram.com/karinkau13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/karinkau/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -53,7 +54,7 @@ Que este ano seja repleto de grandes codificações.
 ___
   
 <!--Ebooks-->
-### 📚 ✍️ RESUMO DOS ESTUDOS EM PDF 
+### 📚 ✍️ RESUMOS EM PDF 
   
 [![GITHUB PAGES](https://img.shields.io/badge/Ebook:-GITHUB_PAGES-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf) ♦ 
 [![BADGES EMBLEMAS](https://img.shields.io/badge/Ebook:-BADGES_EMBLEMAS-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/badges-github.pdf) ♦
@@ -61,16 +62,15 @@ ___
   
 ___
 
-### 📚 ✍️ SITES EM DESENVOLVIMENTO
-
-[JavaScript](karinkau.github.io/javascript/)
-
-[HTML5 & CSS3](https://karinkau.github.io/html5-css3/index.html)
-
-[Site Android](https://karinkau.github.io/site-android/)
-
-[Tema Github page](https://karinkau.github.io/ola-mundo/)
-
+### 👉 SITES EM DESENVOLVIMENTO 
+  
+| 📌 Sites 🔗 | criados para os repositórios|
+| :---: | ----------------------------|
+| 01  |🔹 [HTML5 & CSS3](https://karinkau.github.io/html5-css3/index.html) 👈
+| 02  |🔹 [JavaScript](karinkau.github.io/javascript/) 👈
+| 03  |🔹 [Site Android](https://karinkau.github.io/site-android/) 👈
+| 04  |🔹 [Tema Github page](https://karinkau.github.io/ola-mundo/) 👈
+  
 
 ___
 
