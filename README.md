@@ -18,14 +18,14 @@ Que este ano seja repleto de grandes codificações.
 <div align="left">
 <!--minhas estatísticas-->
 <a href="https://github.com/karinkau">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=karinkau&custom_title=Karin Kau Github Estatísticas&title_color=7fff00&text_color=FFF&line_height=20px&card_width=10em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&locale=pt-BR" />
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=karinkau&custom_title=Karin Kau Github Estatísticas&title_color=7fff00&text_color=FFF&line_height=20px&card_width=10em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&locale=pt-BR" />
 <!--linguagens usadas-->
 <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=default&langs_count=10&custom_title=Linguagens em uso&title_color=7fff00&text_color=FFF&line_height=20px&card_width=400em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&locale=pt-BR" />
 </div><!--/contadores-->
   
  ___
   
- ## Tecnologias estudadas
+ ## Tecnologias em desenvolvimento
   
  <!--tecnologias ESTUDADAS-->
 <div style="display: inline_block">
