@@ -58,8 +58,8 @@ ___
   
 | 📌 Sites 🔗 | criados para os repositórios|
 | :---: | ----------------------------|
-| 01  |🔹 [HTML5 & CSS3](https://karinkau.github.io/html5-css3/index.html) 👈
-| 02  |🔹 [JavaScript](karinkau.github.io/javascript/index.html) 👈
+| 01  |🔹 [HTML5 & CSS3](https://karinkau.github.io/html5-css3/) 👈
+| 02  |🔹 [JavaScript](https://karinkau.github.io/javascript/) 👈
 | 03  |🔹 [Site Android](https://karinkau.github.io/site-android/) 👈
 | 04  |🔹 [Tema Github page](https://karinkau.github.io/ola-mundo/) 👈
   
@@ -67,21 +67,14 @@ ___
 
  ## Repositórios em destaques
   
- <!--PINS DOS REPOSITÓRIOS-->
-<div align="left>
-            
-<!--karinkau-->
-<a href="https://github.com/karinkau/karinkau">
-<img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karinkau&repo=karinkau&title_color=7fff00&text_color=FFF&line_height=20px&card_width=100em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&locale=pt-BR"/></a>            
-            
+<!--PINS DOS REPOSITÓRIOS-->                 
 <!--HTML5&CSS3-->
 <a href="https://github.com/karinkau/html5-css3">
-<img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karinkau&repo=html5-css3&title_color=7fff00&text_color=FFF&line_height=20px&card_width=100em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&locale=pt-BR"/></a>           
-            
+<img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karinkau&repo=html5-css3&title_color=7fff00&text_color=FFF&line_height=20px&card_width=100em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&locale=pt-BR"/></a>               
 <!--JAVASCRIPT-->
 <a href="https://github.com/karinkau/javascript">
 <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karinkau&repo=javascript&title_color=7fff00&text_color=FFF&line_height=20px&card_width=100em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&locale=pt-BR"/></a>
-</div><!--/repositórios-->  
+<!--/repositórios-->  
 
 ___
 
