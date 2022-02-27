@@ -52,6 +52,8 @@ ___
 [![BADGES EMBLEMAS](https://img.shields.io/badge/Ebook:-BADGES_EMBLEMAS-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/badges-github.pdf) ♦
 [![PROFILE VIEWS COUNTER](https://img.shields.io/badge/Ebook:-PROFILE_VIEWS_COUNTER-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/profile-views-counter.pdf)
   
+<kbd>APRENDA COMIGO → [MARKDOWN](https://github.com/karinkau/karinkau/blob/main/markdown.md#user-content-fn-note-7944a2dd9f6f6d9f067f2020848d982c)</kbd>
+  
 ___
 
 ## 👉 Sites em desenvolvimento 
