@@ -83,10 +83,17 @@ ___
   
 ___
   
+<!--GRÁFICO DE ATIVIDADES-->
 ## :chart_with_upwards_trend:  Minhas Atividades nos últimos 31 dias 
 
-<!--GRÁFICO DE ATIVIDADES-->
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=karinkau&theme=github&bg_color=363636&point=FFF&area=true&area_color=00FA9A&line=7fff00&custom_title=Karin+Kau+Gráfico+de+Atividades&color=FFF&hide_title=false&hide_border=true)](https://github.com/karinkau)
+  
+___
+  
+<!--GRID SNAKE--> 
+<div align="center">
+<img align="center" src="https://github.com/karinkau/karinkau/blob/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha">
+</div>
   
 ___
   
