@@ -92,7 +92,7 @@ ___
   
 <!--GRID SNAKE--> 
 <div align="center">
-<img align="center" src="https://github.com/karinkau/karinkau/blob/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha">
+<img align="center" src="https://github.com/karinkau/karinkau/blob/output/github-contribution-grid-snake2.svg" alt="Animação da cobrinha">
 </div>
   
 ___
