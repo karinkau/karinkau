@@ -2,8 +2,8 @@
 name: Generate snake game
 
 on:
-  schedule: # ação executada a cada 6 horas.
-    - cron: "* */6 * * *"
+  schedule: # ação executada a cada 24 horas.
+    - cron: "* */24 * * *"
   workflow_dispatch: # ação executada automaticamente em Actions.
 
 jobs: # fluxo de trabalho
