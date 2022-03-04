@@ -1,6 +1,6 @@
 <div id="topo">
  
- # ☺ MARKDOWN ✍ 
+ # ☺ MARKDOWN ✍  <kbd>Manual básico para formatação 🙋‍♂️</kbd>
  
 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 ⚫ 🟤 
 
@@ -26,11 +26,12 @@ ___
 ---                                  | ---                    | ---                    | ---                         | ---         |
 🔹 [Hierárquia de títulos](#titulos) | 🔹 [Âncoras](#ancoras) | 🔹 [Imagens](#img)     | 🔹 [Citação](#citar)        | 🔹 [Menção ao usuário](#usuario) |
 🔹 [Linha horizontal](#hr)           | 🔹 [Links](#links)     | 🔹 [Emojis](#emojis)   | 🔹 [Inserir códigos](#code) | 🔹 [Menção a Issues](#issues)    |
-🔹 [Parágrafos](#p)                  | 🔹                     | 🔹                     | 🔹 [Listas](#listas)        | 🔹         |
-🔹 [Quebra de linha](#br)            | 🔹                     | 🔹                     | 🔹 [Nota de rodapé](#notas) | 🔹         |
-🔹 [Formatação básica](#formatar)    | 🔹                     | 🔹                     | 🔹 [Tabelas](#tabelas)      | 🔹         |
-🔹 [Inserir símbolos](#simbolos)     | 🔹                     | 🔹                     | 🔹                          | 🔹         | 
- 
+🔹 [Parágrafos](#p)                  | 🔹                     | 🔹                     | 🔹 [Listas](#listas)        | 🔹 [Assinatura](#ass)            |
+🔹 [Quebra de linha](#br)            | 🔹                     | 🔹                     | 🔹 [Nota de rodapé](#notas) | 🔹 [Emblemas](#emblemas)         |
+🔹 [Formatação básica](#formatar)    | 🔹                     | 🔹                     | 🔹 [Tabelas](#tabelas)      | 🔹 [Cartão de resumo](#cartao)   |
+🔹 [Inserir símbolos](#simbolos)     | 🔹                     | 🔹                     | 🔹 [Saiba mais](#saiba)     | 🔹         | 
+🔹[Destacar textos](#destaque)       | 🔹                     | 🔹                     | 🔹                          | 🔹         |
+🔹[Ocultar código](#comentario)      | 🔹                     | 🔹                     | 🔹                          | 🔹         |
 ___
  
 <div id="titulos">
@@ -80,7 +81,7 @@ ___
 
 ## ░ Quebra de linha
 
-Pode-se usar **2 espaços no final da linha** ou a tag \<br> - quebra de linha do HTML no arquivo em Markdown.  
+ Pode-se usar <kbd>**2 espaços no final da linha**</kbd> ou a tag \<br> - quebra de linha do HTML no arquivo em Markdown.  
 Também é possível colocando a barra invertida no final da linha `\`\
 e saltando para baixo para fazer a quebra.\
 ☞ Algumas tags HTML são aceitas em Markdown.
@@ -112,12 +113,40 @@ ___
  
 Isso é possível em Markdown?
  
-🟡 Texto marcado com cor 🟡  → basta colocar o texto entre sinais de igualdade como: ==marcado== ou com a tag Html \<mark\>= <mark>texto com a tag mark</mark>  ▬ Isso não ocorre no Github apenas em outros editores. \
+🟡 Texto marcado com cor 🟡  
+Basta colocar o texto entre sinais de igualdade como: ==marcado== ou com a tag Html \<mark\>\
+▬ Isso não ocorre no Github apenas em outros editores. \
 No https://stackedit.io/ o texto fica mardado de amarelo.\
 ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
 
 [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
 ___
+ 
+<div id="destaque">
+ 
+## ░ Destacar textos
+ 
+A tag \<kbd>\</kbd> pode ser usada para dar destaque ao texto.  
+O conteúdo interno é exibido na fonte monoespaçada padrão do navegador.
+
+<kbd>Outra forma de destaque ao seu texto.</kbd>
+
+Esse destaque é diferente do destaque de código inline → `destaque inline`
+ 
+Pode-se usar a formatação básica com essa tag para ter o efeito abaixo.
+
+<kbd>**negrito** e *itálico* e <ins>sublinhado</ins> e `destaque` e ~~riscado~~</kbd>  
+<br>
+<kbd>
+    Esse destaque não é <br>
+    indicado para inserção de códigos.<br>
+    <br>
+     Use apenas para destaques em textos.
+</kbd> 
+<br><br>
+
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
  
 <div id="simbolos">
  
@@ -171,7 +200,11 @@ ___
 
 ## ░ Inserir códigos de linguagens
 
-▬ **Código inline →** colocar entre crases \` \` O código delimitado ou **Ctrl E**. Isso faz o texto ficar com uma fonte monoespaçada e com fundo acinzentado para dar destaque. Exemplo: `window.document.querySelector()` é escrito em linguagem JavaScript.
+### ⚪ Código inline
+
+Basta colocar entre crases \` \` O código delimitado ou **Ctrl E**.  
+Isso faz o texto ficar com uma fonte monoespaçada e com fundo acinzentado para dar destaque.\
+Exemplo: `window.document.querySelector()` é escrito em linguagem JavaScript. 
 
 ### ⚪ Código de bloco
  
@@ -230,17 +263,17 @@ Exemplo: [Pesquisa Google](https://www.google.com/ "Esse link abre a página na 
 
 ### ⚪ Link relativo 
  
-É o link interno do site. Exemplo: `[link](docs/markdown.md)` → pode usar os **operandos ./ e ../** para acessar as pastas.
+É o link interno do site. Exemplo: `[link](docs/markdown.md)` → pode usar os operandos `./ e ../ e ../../` para acessar as pastas.
 
 ### ⚪ Link direto
  
 É o endereço da web entre **chaves <>** ou a URL completa colada na página. Exemplo: <https://www.google.com/>
 
- ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
+ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗
  
-   É possível colocar um link em Markdown:  
-🟡 Que abra em outra aba do navegador?  
-‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗  ‗ ‗ ‗ ‗ 
+É possível colocar um link em Markdown:  
+🟡 Que abra em outra aba do navegador? 🟡\
+‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗  ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ ‗ 
 
  
 [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
@@ -265,7 +298,7 @@ ___
  
 ## ░ Imagens
  
-O símbolo `![]()` ☛ `![alt](URL "title")` → onde o texto alternativo fica entre colchetes, o link da imagem entre parêntesis e a descrição da imagem entre aspas duplas - ao passar o mouse sobre ela vai mostrar um texto. Tem a mesma função da tag <title> do HTML.
+O símbolo `![]()` ☛ `![alt](URL "title")` → onde o texto alternativo fica entre colchetes, o link da imagem entre parêntesis e a descrição da imagem entre aspas duplas - ao passar o mouse sobre ela vai mostrar um texto. Tem a mesma função do Title do HTML.
 
 ![Logo do Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Logo do Markdown")
  
@@ -281,16 +314,50 @@ Para isso, basta colocar o símbolo da imagem `![alt](URL "title")` entre colche
 
 [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
 ___ 
-  
+ 
+<div id="emblemas">
+ 
+## ░ Emblemas 
+ 
+São imagens geradas dinamicamente pelo link:  
+`https://img.shields.io/badge/2022-Emblemas_do_Github-gold`
+![emblemas](https://img.shields.io/badge/2022-Emblemas_do_Github-gold)  
+
+Aprenda mais sobre emblemas no: [emblemas - Badges Githb](https://github.com/karinkau/karinkau/blob/main/ebook/badges-github.pdf)
+ 
+Site oficial para geração de emblemas: <https://shields.io/>
+
+:+1: :-1: Algumas imagens podem gerar contadores.
+ 
+[Shields Social](https://shields.io/category/social) - 
+![GitHub followers](https://img.shields.io/github/followers/karinkau?color=ffff00&label=Seguidores&logo=square&logoColor=ffff00&style=for-the-badge)  
+ <br>
+ [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+ ___ 
+ 
+<div id="cartao">
+ 
+## ░ Cartão de resumo do perfil do GitHub
+
+Esse cartão pode ser construído conforme as orientações no: [Summary Card](https://github.com/vn7n24fzkq/github-profile-summary-cards) - É só fazer e colar o link em seu perfil.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karinkau&theme=solarized_dark)
+ 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+ 
+ ___
+ 
 <div id="emojis">
 
-## Emojis
+## ░ Emojis
 
  🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
  
 São representações de ícones, pequenos símbolos inseridos por `: :` → `:eyes:` = 👀
  
-✔️ Forma prática de inserir um emoji é digitar `:` depois as primeiras letras do emoji (em inglês) que abrirá uma guia com emojis.
+✔️ Forma prática de inserir um emoji é digitar `:` depois as primeiras letras do emoji (em inglês) que abrirá uma guia com emojis.  
+ Essa formula não funciona nos editores de código como o Visual Studio Code.
+ 
  
 🙃 Exemplos de emojis  
  
@@ -324,7 +391,8 @@ São representações de ícones, pequenos símbolos inseridos por `: :` → `:e
  
 ‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗
   
-☠ Outros exemplos de emojis:
+☠ Outros exemplos de emojis:  
+Esses ícones podem ser copiados e colados direto no arquivo.
  
 ☚ ☛  ☜  ☝  ☞  ☟  ✌   ✍  ☁  ☄ ☀ ♨ ❄  ✟ ☎ ✂ ☢ ⌛  ✏ ✎ 
  
@@ -340,21 +408,22 @@ ___
 ## ░ Tabelas
  
 São simplesmente fáceis em Markdown. Basta usar as barrass em pé `|` para fazer a demarcação da tabela.
- 
-    Ano   | Curso       | Professor         | Aulas
-    :---: | ---:        | :---              | :---: 
-    2013  | HTML+CSS+JS | Gustavo Guanabara | 36 
-    2018  | Hardware    | Alfredo Jr        | 28 
-    2019  | Linux       | Ricardo Pinheiro  | 15
-  
+
+~~~
+Ano   | Curso       | Professor         | Aulas
+:---: | ---:        | :---              | :---: 
+2022  | Javascript  | Gustavo Guanabara | em andamento 
+2021  | CSS3        | Gustavo Guanabara | em andamento
+2021  | HTML5       | Gustavo Guanabara | em andamento
+~~~ 
  
 ✔️ Usar as barras em pé (pipes) | e os traços organizam os espaços da tabela.
  
 Ano   | Curso       | Professor         | Aulas
 :---: | ---:        | :---              | :---: 
-2013  | HTML+CSS+JS | Gustavo Guanabara | 36 
-2018  | Hardware    | Alfredo Jr        | 28 
-2019  | Linux       | Ricardo Pinheiro  | 15
+2022  | Javascript  | Gustavo Guanabara | em andamento 
+2021  | CSS3        | Gustavo Guanabara | em andamento
+2021  | HTML5       | Gustavo Guanabara | em andamento
 
  
 ✅ Formatação dos elementos da tabela:
@@ -513,9 +582,10 @@ ___
  
 ## ░ Menções ao usuário
  
-A menção ao usuário é feita com \@nome-do-usuário.
+A menção ao usuário é feita com \@nome-do-usuário.  
+Esse método somente funciona nos comentários.  
  
-Meu perfil no Github é @gafanhotos
+Meu perfil no Github é @karinkau
  
 <div id="issues">
  
@@ -525,12 +595,52 @@ A menção a Issues ou a Pullrequests é feita com \#numero-da-issue = `#1`
 
 Citar Issues ou Pullrequests de nosso repositório usando o símbolo de # seguido do número do elemento (sem espaços).
 Analisando o Issue #1, concluo ....
+ 
+Esse método somente funciona nos comentários.  
+ 
+<div id="ass">
 
+## ░ Assinatura
  
- 
- 
- ___
+Use esse modelo para assinar seus documentos e comentários.\
+ \<kbd>\`ass:` *seu nome* \@usuario\</kbd>
 
+<kbd>`ass:` *Karine s m Rodrigues* @karinkau</kbd>
+ 
+[Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
+
+<div id="comentario">
+
+## ░ Ocultar código
+ 
+Para ocultar códigos dentro do Markdown use a tag de comentário do Html.
+ 
+\<!--ocultar dados-->
+ 
+ [Introdução](#topo) - [Tópicos](#topicos) - [Rodapé](#rodape)
+___ 
+
+<div id="saiba">
+
+## ░ Saiba mais
+ 
+Para colocar texto escondido que só aparece quando o usuário clicar em ► saiba mais
+
+<details>
+<sumary>Eu sou:</sumary>
+    <p>Karine s m Rodrigues - Karin Kau</p>
+   <sumary>Instrução:</sumary>
+   <p>Formada em ADS pela Unip.</p>
+   <sumary>Emprego:</sumary>
+   <p>Trabalho como recepcionista em um hospital.</p>
+   <sumary>Sonho:</sumary>
+   <p>Ser desenvolvedora Front End.</p>
+   <sumary>Metas:</sumary>
+   <p>Estudar bastante HTML5, CSS3 e Javascript.</p>
+    <kbd>`ass:` *Karine s m Rodrigues* @karinkau</kbd>
+</details>
+ 
 <div id="rodape">
  
 [Introdução](#topo) - [Tópicos](#topicos) 
