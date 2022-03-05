@@ -40,10 +40,8 @@ Estarei colocando meus códigos disponíveis à medida em que estudo.
   
 [![GITHUB PAGES](https://img.shields.io/badge/Ebook:-GITHUB_PAGES-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf) ♦ 
 [![BADGES EMBLEMAS](https://img.shields.io/badge/Ebook:-BADGES_EMBLEMAS-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/badges-github.pdf) ♦
-[![PROFILE VIEWS COUNTER](https://img.shields.io/badge/Ebook:-PROFILE_VIEWS_COUNTER-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/profile-views-counter.pdf)
-  
-<kbd>APRENDA COMIGO → [MARKDOWN](https://github.com/karinkau/karinkau/blob/main/markdown.md#user-content-fn-note-7944a2dd9f6f6d9f067f2020848d982c)</kbd>
-  
+[![PROFILE VIEWS COUNTER](https://img.shields.io/badge/Ebook:-PROFILE_VIEWS_COUNTER-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/profile-views-counter.pdf) ♦
+[![alt](https://img.shields.io/badge/Tutorial:-Markdown-00008F?labelColor=87CEEB&style=for-the-badge&logo=markdown&logoColor=000080)](https://github.com/karinkau/karinkau/blob/main/markdown.md) 
 ___
 
 ## 👉 Meus Sites em Desenvolvimento 
@@ -116,9 +114,6 @@ ___
   
 ☺ Que este seja o início de grandes criações.  <img src = "https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width = "30px">
 </div><!--/símbolos-->
-  
- <!--aASSINATURA-->
- <kbd>`ass:` *Karine s m Rodrigues* @karinkau</kbd> 
  
 <!--SAIBA MAIS-->
 <details>
@@ -135,10 +130,14 @@ ___
   <kbd>`ass:` *Karine s m Rodrigues* @karinkau</kbd>
 </details>
 
+ ![GitHub followers](https://img.shields.io/github/followers/karinkau?color=00FFFF&label=Meus+seguidores&labelColor=800000&logo=Alitalia&logoColor=00FFFF&&logoWidth=20&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/karinkau?color=00FFFF&label=Minhas+estrelas&labelColor=800000&logo=Apache-Spark&logoColor=00FFFF&logoWidth=20&style=for-the-badge)
+
+<!--aASSINATURA-->
+ <kbd>`ass:` *Karine s m Rodrigues* @karinkau</kbd> 
   
  <!--Contador de visualizações de perfil - Ele exibirá uma imagem transparente de pixel 1x1 que aumentará o contador em cada visualização de perfil-->
  ![](https://hit.yhype.me/github/profile?user_id=75148725)
- 
  
   <!--
 <div style="display: inline_block">
