@@ -1,15 +1,23 @@
+<!--■■■■■■■■■■ SALUTON ■■■■■■■■■■-->
 # Olá! Bem-vindo (a)  ♂♀ Eu sou <ins>Karin Kau</ins>  👋 💚 👽
 
-<!--CONTADOR ESTATISTICA-->
+<!--■■■■■■■■■■ CONTADOR ESTATISTICA ■■■■■■■■■■
 <div align="center">
 <a href="https://github.com/karinkau">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=karinkau&custom_title=Karin Kau Github Estatísticas&title_color=7fff00&text_color=FFF&line_height=20px&card_width=200em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&locale=pt-BR"/>
-</div><!--/estatisticas-->
+</div> ■■■■■■■■■■ ESSA NÃO ESTÁ BOA ??? -->
+  <div align="center">
+  <a href="https://github.com/karinkau">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karinkau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
- <!--CONTADOR DE VISUALIZAÇÕES-->
+  
+ <!--■■■■■■■■■■ CONTADOR DE VISUALIZAÇÕES ■■■■■■■■■■-->
 ![Profile-Views-Counter]( https://komarev.com/ghpvc/?username=karinkau&style=flat&label=Visualizações+=&color=FF00FF)
 ___
   
+<!--■■■■■■■■■■ APRENDIZADO MEU ■■■■■■■■■■-->
 ## Meu aprendizado
   
 <!--IMAGENS DE LINGUAGENS - BADGES-->
@@ -18,14 +26,12 @@ ___
 ![](https://img.shields.io/badge/CSS3-0C6FB2?style=flat&logo=css3&logoColor=cyan) +
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) +
 ![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) +
-![](https://img.shields.io/badge/BADGES-000021?style=flat&logo=github&logoColor=9cf) + 
 ![](https://img.shields.io/badge/Git_&_Github-2F4F4F?style=flat&logo=github&logoColor=black)
 
-Estarei colocando meus códigos disponíveis à medida em que estudo.  
 
-<!--CONTADOR DE LINGUAGENS-->
+<!--■■■■■■■■■■ CONTADOR DE LINGUAGENS ■■■■■■■■■■-->
 <div align="left">
-<img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=default&langs_count=10&custom_title=Linguagens em uso&title_color=7fff00&text_color=FFF&line_height=70px&card_width=500em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&locale=pt-BR"/>
+<img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=default&langs_count=10&custom_title=Linguagens%20em%20uso&title_color=7fff00&text_color=FFF&line_height=70px&card_width=500em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&local">
  
 <img align="center" alt="karinkau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="karinkau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -35,7 +41,7 @@ Estarei colocando meus códigos disponíveis à medida em que estudo.
   
  ___
   
-<!--RESUMOS EM PDF-->
+<!--■■■■■■■■■■ RESUMOS EM PDF ■■■■■■■■■■-->
 ## 📚 ✍️ Meus Resumos em PDF 
   
 [![GITHUB PAGES](https://img.shields.io/badge/Ebook:-GITHUB_PAGES-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/github-pages.pdf) ♦ 
@@ -43,7 +49,8 @@ Estarei colocando meus códigos disponíveis à medida em que estudo.
 [![PROFILE VIEWS COUNTER](https://img.shields.io/badge/Ebook:-PROFILE_VIEWS_COUNTER-00008F?labelColor=87CEEB&style=for-the-badge&logo=github&logoColor=000080)](../main/ebook/profile-views-counter.pdf) ♦
 [![alt](https://img.shields.io/badge/Tutorial:-Markdown-00008F?labelColor=87CEEB&style=for-the-badge&logo=markdown&logoColor=000080)](https://github.com/karinkau/karinkau/blob/main/markdown.md) 
 ___
-
+  
+<!--■■■■■■■■■■ SITES EM DESENVOLVIMENTO ■■■■■■■■■■-->
 ## 👉 Meus Sites em Desenvolvimento 
   
 | 📌 Sites 🔗 | criados para os repositórios|
@@ -54,7 +61,8 @@ ___
 | 04  |🔹 [Tema Github page](https://karinkau.github.io/ola-mundo/) 👈
   
 ___
-
+  
+<!--■■■■■■■■■■ REPOSITÓRIOS EM DESTAQUE ■■■■■■■■■■-->
  ## 📌 Meus Repositórios em Destaques
   
 <!--PINS DOS REPOSITÓRIOS-->                 
@@ -67,12 +75,15 @@ ___
 <!--/repositórios-->  
 
 ___
-
+  
+<!--■■■■■■■■■■ TROFÉUS ■■■■■■■■■■-->
 ## 🏆 Meus Troféus do GitHub
 <!--CONTADOR DE TROFÉUS-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=karinkau&no-bg=true&no-frame=true&margin-h=3&margin-w=3&row=1&column=7&theme=darkhub)](https://github.com/karinkau/github-profile-trophy)
 
 ___
+  
+<!--■■■■■■■■■■ CONTRIBUIÇÕES TOTAIS ■■■■■■■■■■-->
   
 <!--ESTATISTICA DE SEQUENCIA- Sequência atual e Sequência longa-->
 ## :signal_strength: Contribuições totais 
@@ -81,17 +92,17 @@ ___
   
 ___
   
-<!--GRÁFICO DE ATIVIDADES-->
-## :chart_with_upwards_trend:  Minhas Atividades nos últimos 31 dias 
+<!--■■■■■■■■■■ GRID SNAKE COBRINHA ■■■■■■■■■■
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=karinkau&theme=github&bg_color=363636&point=FFF&area=true&area_color=00FA9A&line=7fff00&custom_title=Karin+Kau+Gráfico+de+Atividades&color=FFF&hide_title=false&hide_border=true)](https://github.com/karinkau)
-  
-___
-  
-<!--GRID SNAKE--> 
 <div align="center">
 <img align="center" src="https://github.com/karinkau/karinkau/blob/output/github-contribution-grid-snake2.svg" alt="Animação da cobrinha">
-</div>
+</div> 
+  
+ <div> 
+
+  ![Snake animation](https://github.com/karinkau/karinkau/blob/output/github-contribution-grid-snake.svg)
+ 
+</div> -->
   
 ___
   
@@ -154,3 +165,9 @@ ___
 <img align="center" alt="karinkau-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div><!--/tecnologias estudadas-->
+
+
+<!--■■■■■■■■■■ GRÁFICO DE ATIVIDADES ■■■■■■■■■■-->
+## :chart_with_upwards_trend:  Minhas Atividades nos últimos 31 dias 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=karinkau&bg_color=000000&color=ffffff&line=23f906&point=f90606&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
