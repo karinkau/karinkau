@@ -8,8 +8,8 @@
 </div> ■■■■■■■■■■ ESSA NÃO ESTÁ BOA ??? -->
   <div align="center">
   <a href="https://github.com/karinkau">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karinkau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=karinkau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
@@ -29,9 +29,9 @@ ___
 ![](https://img.shields.io/badge/Git_&_Github-2F4F4F?style=flat&logo=github&logoColor=black)
 
 
-<!--■■■■■■■■■■ CONTADOR DE LINGUAGENS ■■■■■■■■■■-->
+<!--■■■■■■■■■■ LINGUAGENS EM USO ■■■■■■■■■■-->
 <div align="left">
-<img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=default&langs_count=10&custom_title=Linguagens%20em%20uso&title_color=7fff00&text_color=FFF&line_height=70px&card_width=500em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&local">
+<img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=default&langs_count=10&custom_title=Linguagens%20em%20uso&title_color=7fff00&text_color=FFF&line_height=70px&card_width=500em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&local">
  
 <img align="center" alt="karinkau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="karinkau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
