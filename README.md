@@ -10,11 +10,6 @@
   <!--LINGUAGENS EM USO-->
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=default&langs_count=10&custom_title=Linguagens%20em%20uso&title_color=7fff00&text_color=FFF&line_height=70px&card_width=500em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&local">
 </div>
-  
- <br> 
- <!--■■■■■■■■■■ CONTADOR DE VISUALIZAÇÕES ■■■■■■■■■■-->
-![Profile-Views-Counter]( https://komarev.com/ghpvc/?username=karinkau&style=flat&label=Visualizações+=&color=FF00FF)
-
 ___
   
 <!--■■■■■■■■■■ RESUMOS EM PDF ■■■■■■■■■■-->
@@ -69,9 +64,3 @@ ___
 
 <!--ASSINATURA-->
  <kbd>`ass:` *Karine s m Rodrigues* @karinkau</kbd> 
-  
- <!--Contador de visualizações de perfil - Ele exibirá uma imagem transparente de pixel 1x1 que aumentará o contador em cada visualização de perfil-->
- ![](https://hit.yhype.me/github/profile?user_id=75148725)
- 
-  
-
