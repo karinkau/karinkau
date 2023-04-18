@@ -10,6 +10,7 @@
   <!--LINGUAGENS EM USO-->
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinkau&layout=default&langs_count=10&custom_title=Linguagens%20em%20uso&title_color=7fff00&text_color=FFF&line_height=70px&card_width=500em&show_icons=true&icon_color=00FA9A&border_color=00FA9A&border_radius=35&bg_color=363636&include_all_commits=true&count_private=true&local">
 </div>
+
 ___
   
 <!--■■■■■■■■■■ RESUMOS EM PDF ■■■■■■■■■■-->
