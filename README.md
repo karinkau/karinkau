@@ -72,3 +72,6 @@ ___
   
  <!--Contador de visualizações de perfil - Ele exibirá uma imagem transparente de pixel 1x1 que aumentará o contador em cada visualização de perfil-->
  ![](https://hit.yhype.me/github/profile?user_id=75148725)
+ 
+  
+
